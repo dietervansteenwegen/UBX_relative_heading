@@ -1,0 +1,15 @@
+{
+    "name": "UBX tests",
+    "stubs": {
+        "pyboard-1.13.0": "1.3.2",
+        "esp32-micropython-1.12.0": "1.3.2"
+    },
+    "dev-packages": {
+        "micropy-cli": "*"
+    },
+    "packages": {},
+    "config": {
+        "vscode": true,
+        "pylint": true
+    }
+}

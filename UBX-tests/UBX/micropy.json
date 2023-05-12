@@ -1,0 +1,14 @@
+{
+    "name": "UBX",
+    "stubs": {
+        "micropython-official": "1.12"
+    },
+    "dev-packages": {
+        "micropy-cli": "*"
+    },
+    "packages": {},
+    "config": {
+        "vscode": true,
+        "pylint": true
+    }
+}
